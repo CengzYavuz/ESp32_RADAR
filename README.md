@@ -147,13 +147,9 @@ GPIO 14 ── Buzzer  ─                ─                  ─             
 ## Code Structure
 
 ```text
-├── CODE.C                         Arduino firmware for ESP32
-├── LICENSE                        Project license (MIT)
-├── python/
-│   ├── requirements.txt           Python dependencies
-│   └── GROUP_03_2022510158_2018510126_2021510002_PYTHON_CODE.py  PC‑side visualization
-└── docs/
-    └── wiring_diagram.png         (Optional) high‑res diagram
+├── Radar_Code.C                         Arduino firmware for ESP32
+├── Visualization_Code.py  PC‑side visualization
+└── wiring_diagram.png         (Optional) high‑res diagram
 ```
 
 ---
