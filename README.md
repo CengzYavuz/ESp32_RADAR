@@ -147,9 +147,9 @@ GPIO 14 ── Buzzer  ─                ─                  ─             
 ## Code Structure
 
 ```text
-├── Radar_Code.C                         Arduino firmware for ESP32
+├── Radar_Code.C           Arduino firmware for ESP32
 ├── Visualization_Code.py  PC‑side visualization
-└── wiring_diagram.png         (Optional) high‑res diagram
+└── wiring_diagram.png     (Optional) high‑res diagram
 ```
 
 ---
